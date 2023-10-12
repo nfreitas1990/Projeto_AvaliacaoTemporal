@@ -1,4 +1,4 @@
-# Projeto_AvaliacaoTemporal
+# Projeto: Impactos do rompimento de barragem de minério na qualidade da água da Bacia do Rio Doce (Minas Gerais, Brasil)
   
 Esse projeto foi elaborado para a conclusão do curso MBA em Data Science e Analytics da USP/ESALQ.
 O objetivo consiste em avaliar o impacto proveniente do rompimento da barragem de rejeito de minério na bacia do rio Doce.
