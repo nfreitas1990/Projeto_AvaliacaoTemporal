@@ -5,7 +5,7 @@ O objetivo consiste em avaliar o impacto proveniente do rompimento da barragem d
 Para isso, foram compilados dados temporais de13 estações de monitoramento, localizadas ao longo dos trechos de rio afetados
 pelo rompimento da barragem, que contam com uma série temporal de 26 anos de registros de turbidez. 
   
-## Documento Completo: com contextualização, metodologia e análise dos dados
+## Documento Completo: contextualização, metodologia e análise dos dados
 
 
   
