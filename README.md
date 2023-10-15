@@ -10,7 +10,7 @@ Para isso, foram compilados dados temporais de 13 estações de monitoramento do
 pelo rompimento da barragem, que contam com uma série temporal de 26 anos de registros de turbidez. 
   
 ## Dados:
-
+[Pasta de Dados](https://github.com/nfreitas1990/Projeto_AvaliacaoTemporal/tree/main/data)
 ## Análises Utilizadas:
 
 
