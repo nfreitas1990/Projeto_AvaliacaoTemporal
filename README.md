@@ -38,6 +38,7 @@ Análises de Séries Temporais:
 
   Estações de Monitoramento utilizadas
 ![image](https://github.com/nfreitas1990/Projeto_AvaliacaoTemporal/assets/28782509/d830f469-591b-4627-8ab0-992579914bd3)
+
 Figura 1. Estações de monitoramento, localizadas no trecho afetado pelo rompimento da barragem, que foram selecionadas para análise das séries temporais de turbidez.Fonte: Resultados originais da pesquisa.
 
   
@@ -45,6 +46,7 @@ Figura 1. Estações de monitoramento, localizadas no trecho afetado pelo rompim
 Em todas as estações, o período pós-rompimento foi marcado pelo aumento na turbidez nos primeiros anos, principalmente em 2015 e 2016, seguido pela redução gradual nos anos posteriores a 2017 (Figura 2B).
 
 ![image](https://github.com/nfreitas1990/Projeto_AvaliacaoTemporal/assets/28782509/deb529fe-79a1-4004-bc26-f7828c6e3234)
+
 Figura 2. Turbidez média anual [NTU] para as estações localizadas na trajetória da lama da barragem de Fundão, Minas Gerais. A linha pontilhada vermelha indica o ano de rompimento da barragem (2015). Fonte: Resultados originais da pesquisa.
 
   
@@ -53,9 +55,11 @@ Em contrapartida, o período seco (abril – setembro) apresentou valores máxim
 Os resultados de turbidez apresentados reiteram os estudos que apontam para um efeito negativo substancial do rompimento na qualidade da água da bacia do Rio Doce (Rudorff et al., 2018; Santana et al., 2021; da Silva et al., 2022).
 Em 2022, sete anos após o impacto, o período chuvoso ainda apresenta valores de turbidez máxima maiores do que os que ocorriam em período anterior e, que ultrapassam em pelo menos três vezes o limite de 100 NTU preconizado na legislação vigente (Tabela 1; Conama, 2005), o que evidencia a permanência do impacto. 
 
-Tabela 1. Valores máximos de turbidez antes e após o rompimento da barragem para cada estação de monitoramento no período chuvoso (outubro – março) e seco (abril – setembro). Os círculos representam valores de turbidez de até 100 NTU (verde); até 400 NTU (amarelo); acima de 400 NTU (vermelho).Fonte: Resultados originais da pesquisa.
+Tabela 1. Valores máximos de turbidez antes e após o rompimento da barragem para cada estação de monitoramento no período chuvoso (outubro – março) e seco (abril – setembro). Os círculos representam valores de turbidez de até 100 NTU (verde); até 400 NTU (amarelo); acima de 400 NTU (vermelho).
 
 ![image](https://github.com/nfreitas1990/Projeto_AvaliacaoTemporal/assets/28782509/e04a8cc1-353e-4803-8e99-0cffbb15f6bb)
+
+
 ![image](https://github.com/nfreitas1990/Projeto_AvaliacaoTemporal/assets/28782509/1ec69a48-32ec-4d9a-9a51-537e71186046)
 Figura 3. Turbidez Média anual (NTU), no período seco e chuvoso, para as estações localizadas nos trechos impactados pelo rompimento da barragem de Fundão, Minas Gerais. A linha pontilhada vermelha indica o ano de rompimento da barragem (2015). Fonte: Resultados originais da pesquisa.
 
