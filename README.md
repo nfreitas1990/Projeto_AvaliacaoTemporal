@@ -61,6 +61,7 @@ Tabela 1. Valores máximos de turbidez antes e após o rompimento da barragem pa
 
 
 ![image](https://github.com/nfreitas1990/Projeto_AvaliacaoTemporal/assets/28782509/1ec69a48-32ec-4d9a-9a51-537e71186046)
+
 Figura 3. Turbidez Média anual (NTU), no período seco e chuvoso, para as estações localizadas nos trechos impactados pelo rompimento da barragem de Fundão, Minas Gerais. A linha pontilhada vermelha indica o ano de rompimento da barragem (2015). Fonte: Resultados originais da pesquisa.
 
 
@@ -74,12 +75,14 @@ Figura 4. Componente Tendência da decomposição STL para cada estação de mon
   Reiterando os resultados da análise descritiva, a decomposição STL evidenciou, ainda, a sazonalidade da série temporal de turbidez em todas as estações de monitoramento, com aumento dos valores de turbidez nos meses chuvosos (outubro – março) e redução nos meses secos (abril – setembro) (Figura 5). A sazonalidade é característica tanto do período pré quanto do pós-rompimento, entretanto, o período pós-rompimento foi marcado pelo aumento na magnitude da sazonalidade, com diferenças acentuadas entre os períodos secos e chuvosos nos anos seguintes ao rompimento e, redução gradual da magnitude com o passar dos anos (Figura 5). 
 
  ![image](https://github.com/nfreitas1990/Projeto_AvaliacaoTemporal/assets/28782509/05ef3281-9789-4e6d-9ea7-4d65c21b26bb)
+ 
 Figura 5. Componente Sazonalidade da decomposição STL para cada estação de monitoramento. Fonte: Resultados originais da pesquisa.
 
 
   O modelo global da análise ITS foi estatisticamente significativo para todas as estações estudadas (Apêndice). O coeficiente de determinação variou entre 0,45 – 0,60 dependendo da estação (p-valor <0,001) (Apêndice; Tabela 2). O coeficiente de intervenção mostrou mudança de nível significativa na série de turbidez no período pós-impacto para todas as estações, com aumento de 150% a 1800% comparado aos valores de turbidez pré-impacto – o que equivale a valores em média entre 2,5–19 vezes maiores no período pós impacto comparado ao pré-impacto (Tabela 2). O coeficiente tempo desde o impacto mostrou mudança de inclinação significativa no período pós-impacto apenas para quatro estações (RD019, RD023, RD033 e RD035), com redução entre 1,79% e 2,0% nos valores de turbidez a cada mês. 
 
 Tabela 2. Resumo dos modelos ITS para cada estação. Valores dos parâmetros betas, que estavam em escala logarítmica, foram transformados por (exp (beta) -1) * 100 para obter a mudança percentual de Y por unidade de X (veja Apêndice para dados brutos).Fonte: Resultados originais da pesquisa.
+
 ![image](https://github.com/nfreitas1990/Projeto_AvaliacaoTemporal/assets/28782509/495ed1b1-6d16-4a77-9b13-53b3d99e967a)
 ![image](https://github.com/nfreitas1990/Projeto_AvaliacaoTemporal/assets/28782509/883eeedd-7e1e-48c3-8261-55bf1889314d)
 
