@@ -1,6 +1,6 @@
 # Projeto: Impactos do rompimento de barragem de minério na qualidade da água da Bacia do Rio Doce (Minas Gerais, Brasil)
 :book:[Relatório](https://github.com/nfreitas1990/Projeto_AvaliacaoTemporal/blob/main/docs/2023-10-02_TCC_NataliaFreitasdeSouza.pdf)
-⚙️[Script]()  
+⚙️[Script](https://github.com/nfreitas1990/Projeto_AvaliacaoTemporal/tree/main/scripts)  
 ![image]()
 
 ## Objetivo: 
