@@ -57,12 +57,12 @@ Tabela 1. Valores máximos de turbidez antes e após o rompimento da barragem pa
 ![image](https://github.com/nfreitas1990/Projeto_AvaliacaoTemporal/assets/28782509/1ec69a48-32ec-4d9a-9a51-537e71186046)
 Figura 3. Turbidez Média anual (NTU), no período seco e chuvoso, para as estações localizadas nos trechos impactados pelo rompimento da barragem de Fundão, Minas Gerais. A linha pontilhada vermelha indica o ano de rompimento da barragem (2015). 
 
-A decomposição STL evidenciou uma leve tendência decrescente na série de turbidez no período pré-rompimento em todas as estações de monitoramento (Figura 4). Este padrão foi alterado no período pós-rompimento, quando a série passou a apresentar forte tendência decrescente para todas as estações ao longo dos anos (Figura 4). 
+4. A decomposição STL evidenciou uma leve tendência decrescente na série de turbidez no período pré-rompimento em todas as estações de monitoramento (Figura 4). Este padrão foi alterado no período pós-rompimento, quando a série passou a apresentar forte tendência decrescente para todas as estações ao longo dos anos (Figura 4). 
 
 ![image](https://github.com/nfreitas1990/Projeto_AvaliacaoTemporal/assets/28782509/5b6662b8-db6c-4463-a038-a49bf5389530)
 Figura 4. Componente Tendência da decomposição STL para cada estação de monitoramento.
 
-Reiterando os resultados da análise descritiva, a decomposição STL evidenciou, ainda, a sazonalidade da série temporal de turbidez em todas as estações de monitoramento, com aumento dos valores de turbidez nos meses chuvosos (outubro – março) e redução nos meses secos (abril – setembro) (Figura 5). A sazonalidade é característica tanto do período pré quanto do pós-rompimento, entretanto, o período pós-rompimento foi marcado pelo aumento na magnitude da sazonalidade, com diferenças acentuadas entre os períodos secos e chuvosos nos anos seguintes ao rompimento e, redução gradual da magnitude com o passar dos anos (Figura 5). 
+5. Reiterando os resultados da análise descritiva, a decomposição STL evidenciou, ainda, a sazonalidade da série temporal de turbidez em todas as estações de monitoramento, com aumento dos valores de turbidez nos meses chuvosos (outubro – março) e redução nos meses secos (abril – setembro) (Figura 5). A sazonalidade é característica tanto do período pré quanto do pós-rompimento, entretanto, o período pós-rompimento foi marcado pelo aumento na magnitude da sazonalidade, com diferenças acentuadas entre os períodos secos e chuvosos nos anos seguintes ao rompimento e, redução gradual da magnitude com o passar dos anos (Figura 5). 
 
  ![image](https://github.com/nfreitas1990/Projeto_AvaliacaoTemporal/assets/28782509/05ef3281-9789-4e6d-9ea7-4d65c21b26bb)
 Figura 5. Componente Sazonalidade da decomposição STL para cada estação de monitoramento. 
